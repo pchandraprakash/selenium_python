@@ -10,4 +10,5 @@
    - **pip list**: Show all packages installed, with version.
    - **pip list -o**: Show installed packages that are not the newest version available.
    - **pip install <*package_name*>**: This will install a specific package
-   - **pip install <*package_name*>*****==version_number***:
+   - **pip install <*package_name*>*****==version_number***: This will install a specific package and its version
+   - **pip freeze > requirements.txt**: Standard way of preserving a list of required packages with versions for a project. It save the                                           list of packages with versions to a requirements.txt file.
