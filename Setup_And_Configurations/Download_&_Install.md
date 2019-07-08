@@ -5,3 +5,4 @@ Double clisk on the downloaded file and follow the instructions to complete the 
 - *Note: During the installation, the installer will give you an option to set the path variable, accept the default settings and continue the installation, this will avoid resetting the path in system variables manually.*
 
 After the successful installation open the windows command prompt and type "python" and click enter, following details should be visible in the console
+(Images/Console_1.JPG)
