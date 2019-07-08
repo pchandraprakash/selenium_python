@@ -10,4 +10,4 @@
    - **pip list**: Show all packages installed, with version.
    - **pip list -o**: Show installed packages that are not the newest version available.
    - **pip install <*package_name*>**: This will install a specific package
-   - **pip install <*package_name*>==*version _number* **:
+   - **pip install <*package_name*>*****==version_number***:
