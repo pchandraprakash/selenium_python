@@ -3,7 +3,7 @@
   - Type 'python' and hit enter
 
 Example:
-help('print') or help("print") and hit enter (we can use single or double quotes as search string)
+help('print') or help("print") and hit enter (we can use single or double quotes for searching a string/keyword)
 
 Output:
 
