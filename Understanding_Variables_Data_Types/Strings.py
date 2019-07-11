@@ -18,3 +18,7 @@ print("***********")
 print('foo\\bar')
 print('foo\tbar')
 print('foo\nbar')
+
+print('this is a lengthy string \
+      cannot fit in one line \
+      hence using the escape characters')
